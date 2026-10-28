@@ -61,24 +61,13 @@ Press `Ctrl+C` to stop the program.
 
 ## TODO
 
-### Monitoring
-- [ ] Display the active network interface.
-- [ ] Allow monitoring a specific network interface.
-- [ ] Display peak download and upload speeds.
-- [ ] Add CPU temperature monitoring where supported.
-- [ ] Display RAM and swap usage in GiB as well as percentages.
-- [ ] Add system uptime.
-
-### Interface
-- [ ] Improve the dashboard layout and visual hierarchy.
-- [ ] Add configurable refresh intervals.
-- [ ] Add warnings when CPU, RAM, or disk usage exceeds configurable thresholds.
-
-### Code Quality
-- [ ] Add type hints to functions.
-- [ ] Add error handling for unavailable system metrics.
-- [ ] Add tests for usage-color selection and network-speed calculations.
-- [ ] Separate monitoring logic from terminal presentation.
+- [ ] More metrics: network, disk I/O, temperatures, battery
+- [ ] Process insights: show what's using the most resources
+- [ ] Multiple views: switch between table and progress bars
+- [ ] Configuration: adjustable refresh rate and color thresholds
+- [ ] Smoother rendering: reduce flicker on updates
+- [ ] Project polish: screenshot, cleaner structure
+- [ ] Testing: cover the core logic
 
 ## Technologies
 
