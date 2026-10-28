@@ -26,7 +26,7 @@ Linux Command Center displays CPU utilization, RAM usage, disk usage, swap usage
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/AnastasisDrougas/linux-command-center.git
 cd linux-command-center
 ```
 
